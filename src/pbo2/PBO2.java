@@ -12,6 +12,9 @@ public class PBO2 {
           m.bilDesimal = 3.14;
           
           
+          m.cetakAttribute();
+          
+          
     
     }
     
